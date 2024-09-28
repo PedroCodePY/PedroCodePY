@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email(boabimut75@gmail.com)
-- 😄 Pronouns: ...
+- 😄 Pronouns: Pedro
 - ⚡ Fun fact: I am 13 Y.O
 
 <!---
