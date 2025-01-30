@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @PedroCodePY
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email(boabimut75@gmail.com)
-- 😄 Pronouns: Pedro
-- ⚡ Fun fact: I am 13 Y.O
+- Hi, I’m @PedroCodePY
+- I’m interested in Coding
+- I’m currently learning Web Development
+- Language that I have master(I'guess) is python and HTML 
+- I’m still confused looking to collaborate on?
+- How to reach me Email(boabimut75@gmail.com) Instagram(@pedrotampuboloncoder) X/Twitter(@PedroCode11)
+- Pronouns: Pedro
+- Fun fact: I born in 2011
 
 <!---
 PedroCodePY/PedroCodePY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
