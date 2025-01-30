@@ -4,7 +4,6 @@
 - Language that I have master(I'guess) is python and HTML 
 - I’m still confused looking to collaborate on?
 - How to reach me Email(boabimut75@gmail.com) Instagram(@pedrotampuboloncoder) X/Twitter(@PedroCode11)
-- Pronouns: Pedro
 - Fun fact: I born in 2011
 
 <!---
