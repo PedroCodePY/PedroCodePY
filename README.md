@@ -10,7 +10,7 @@
 
 ## ⌨️ Language:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bash,css)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bash)
 
 ## 💻 Operating System:
 
