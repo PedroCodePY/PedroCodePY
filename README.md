@@ -6,7 +6,20 @@
 
 ## 🌐 Socials:
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pedrotampuboloncoder/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-tampubolon-9901b5359/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-tampubolon-9901b5359/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedrotampuboloncoder/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/+6281375093480" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/bobaimut75" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
 
 ## ⌨️ Language:
 
@@ -15,6 +28,19 @@
 ## 💻 Operating System:
 
 ![My Skills](https://skillicons.dev/icons?i=windows,debian,ubuntu)
+
+## ⚙️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
 ## 📊 GitHub Stats:
 
@@ -29,3 +55,11 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=PedroCodePy&icon=4&color=0)](https://visitcount.itsvg.in)
+
+## 👻 Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroCodePY/PedroCodePY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroCodePY/PedroCodePY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroCodePY/PedroCodePY/output/pacman-contribution-graph.svg">
+</picture>
